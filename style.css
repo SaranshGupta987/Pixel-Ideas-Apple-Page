@@ -46,6 +46,14 @@ body {
   margin-top: 1.75rem;
 }
 
+.top button:hover,
+.col button:hover {
+  background-color: #000000;
+  color: #ffffff;
+  border: #000000 solid 1.5px;
+  cursor: pointer;
+}
+
 .card {
   height: 80vh;
   margin: 0 20px 20px 20px;
